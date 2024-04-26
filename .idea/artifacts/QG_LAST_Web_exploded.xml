@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="QG_LAST:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/QG_LAST_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="QG_LAST/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="QG_LAST" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="libs" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.83" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
